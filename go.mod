@@ -1,3 +1,3 @@
-module github.com/dhnikolas/gomod/v3
+module github.com/dhnikolas/gomod/v4
 
 go 1.15
