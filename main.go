@@ -3,7 +3,7 @@ package gomod
 import "fmt"
 
 
-func pri (){
+func Pri (){
 fmt.Println("HELLO WORLD")
 
 }
