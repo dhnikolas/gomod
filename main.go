@@ -1,7 +1,9 @@
+package gomod
+
 import "fmt"
 
 
-func main (){
+func pri (){
 fmt.Println("HELLO WORLD")
 
 }
